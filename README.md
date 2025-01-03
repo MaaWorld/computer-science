@@ -8,4 +8,4 @@
 <br>
 <br>
 
-<div align="center"> COMMING SOON 🔜 </div>
+<div align="center"> COMMING SOON 🔜 Jan 2025</div>
