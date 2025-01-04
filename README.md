@@ -3,8 +3,9 @@
   <p>A2Z Free Self Taught Computer Science Learning --- No Prerequisite, anyone can learn, beginner friendly</p>
     <p>Learn Together, Grow Together | Spread your knowledge around the world 🤗</p>
 </div>
-
 <br>
+<img src="img/computer-science.gif" alt="Computer Science">
+
 <br>
 <br>
 
